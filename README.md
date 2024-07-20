@@ -9,19 +9,15 @@
 -->
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" />
+<br>
 
 - 🔭 I’m currently working on [Advanced-Dialogue-Managers-for-Goal-Oriented-Dialogue-Systems](https://github.com/LaurianeMD/Advanced-Dialogue-Managers-for-Goal-Oriented-Dialogue-Systems)
-
-- 🌱 I’m currently learning **NLP**
-
-- 👨‍💻 All of my projects are available at [GitHub Projects](https://github.com/LaurianeMD)
-
-- 💬 Ask me about **Machine Learning,computer vision **
-
-- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/lauriane-mbagdje-dorenan)
-
-- 📄 Know about my experiences: [LinkedIn Profile](https://www.linkedin.com/in/lauriane-mbagdje-dorenan)
-
+- 🌱 I’m currently learning about [Machine Learning](https://www.coursera.org/specializations/machine-learning)
+- 👯 I’m looking to collaborate on [AI projects](https://github.com/LaurianeMD)
+- 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/LaurianeMD)
+- 💬 Ask me about [AI and machine learning](https://www.medium.com/topic/machine-learning)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lauriane-mbagdje-dorenan)
+- 📄 Know about my experiences at [my resume](https://example.com/resume)
 - ⚡ Fun fact: I enjoy learning and exploring new technologies in my free time
 
 <!--
@@ -43,13 +39,13 @@
 
 - ⚡ Fun fact **works**
 -->
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lauriane-mbagdje-dorenan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lauriane-mbagdje-dorenan" height="30" width="40" /></a>
 <a href="https://kaggle.com/lauriane235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lauriane235" height="30" width="40" /></a>
 </p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
@@ -101,7 +97,7 @@
     <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> 
   </a> 
 </p>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laurianemd&show_icons=true&locale=en&layout=compact" alt="laurianemd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laurianemd&show_icons=true&locale=en" alt="laurianemd" /></p>
