@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/564x/b5/25/d6/b525d616750a3145e23136b18d5ab079.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/564x/b5/25/d6/b525d616750a3145e23136b18d5ab079.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/564x/5d/31/8e/5d318ea53467cd7527eef652b746b008.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/564x/5d/31/8e/5d318ea53467cd7527eef652b746b008.jpg">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
