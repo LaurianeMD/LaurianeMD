@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lauriane</h1>
 <h3 align="center">I'm a junior data scientist with a strong passion for artificial intelligence and data analysis.Dedicated to continuous learning, I’m excited to contribute to impactful projects .</h3>
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laurianemd&label=Profile%20views&color=0e75b6&style=flat" alt="laurianemd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laurianemd" alt="laurianemd" /></a> </p>
+-->
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" />
+
 
 <!--
 - 🔭 I’m currently working on [words](words)
