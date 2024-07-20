@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lauriane</h1>
-<h3 align="center">I'm a junior data scientist with a strong passion for artificial intelligence and data analysis. Currently pursuing a master’s in AI, I focus on leveraging machine learning and computer vision to tackle real-world challenges. Dedicated to continuous learning, I’m excited to contribute to impactful projects .</h3>
+<h3 align="center">I'm a junior data scientist with a strong passion for artificial intelligence and data analysis.Dedicated to continuous learning, I’m excited to contribute to impactful projects .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laurianemd&label=Profile%20views&color=0e75b6&style=flat" alt="laurianemd" /> </p>
 
