@@ -12,7 +12,7 @@
 <br>
 
 - 🔭 I’m currently working on [Advanced-Dialogue-Managers-for-Goal-Oriented-Dialogue-Systems](https://github.com/LaurianeMD/Advanced-Dialogue-Managers-for-Goal-Oriented-Dialogue-Systems)
-- 🌱 I’m currently learning about [Machine Learning](https://www.coursera.org/specializations/machine-learning)
+- 🌱 I’m currently learning about [AI programming with python](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089)
 - 👯 I’m looking to collaborate on [AI projects](https://github.com/LaurianeMD)
 - 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/LaurianeMD)
 - 💬 Ask me about [AI and machine learning](https://www.medium.com/topic/machine-learning)
