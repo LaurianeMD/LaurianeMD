@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" />
 <br>
 
-- 🔭 I’m currently working on [Advanced-Dialogue-Managers-for-Goal-Oriented-Dialogue-Systems](https://github.com/LaurianeMD/Advanced-Dialogue-Managers-for-Goal-Oriented-Dialogue-Systems)
+- 🔭 I’m currently working on [Advanced-Dialogue-Managers-for-Goal-Oriented-Dialogue-Systems](https://github.com/LaurianeMD/Advanced-Dialogue-Managersfor-Goal-Oriented-Dialogue-Systems)
 - 🌱 I’m currently learning about [AI programming with python](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089)
 - 👯 I’m looking to collaborate on [AI projects](https://github.com/LaurianeMD)
 - 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/LaurianeMD)
