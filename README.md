@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lauriane</h1>
 
-<h3 align="center">Junior Data Scientist with a passion for AI and data science Eager to work on impactful projects.</h3>
+<h3 align="center">Junior Data Scientist with a passion for AI and data  Eager to work on impactful projects.</h3>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laurianemd&label=Profile%20views&color=0e75b6&style=flat" alt="laurianemd" /> </p>
