@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laurianemd" alt="laurianemd" /></a> </p>
 -->
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" />
+<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif](https://drive.google.com/file/d/101ITZ11qVMhbkvzX7NPbA7m12FR9ZWcD/view?usp=sharing)" />
 <br>
 <!--
 - 🔭 I’m currently working on [Advanced-Dialogue-Managers-for-Goal-Oriented-Dialogue-Systems](https://github.com/LaurianeMD/Advanced-Dialogue-Managersfor-Goal-Oriented-Dialogue-Systems)
