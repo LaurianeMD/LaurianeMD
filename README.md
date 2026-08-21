@@ -28,7 +28,7 @@
   align="right"
   width="300"
   alt="Lauriane AI Engineer animation"
-  src="https://drive.google.com/uc?export=view&id=1KZGTN-Kab_IyNlJ0i91oQhAt2GSayGvp"
+  src="./ai_engineer_github.gif"
 />
 
 I am an **AI/ML Engineer** with a background in **Biomedical Engineering** and a Master's degree in Artificial Intelligence from the Dakar Institute of Technology.
