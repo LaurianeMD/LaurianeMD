@@ -24,10 +24,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Publish snake
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           build_dir: dist
-          branch: output
+          target_branch: gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
