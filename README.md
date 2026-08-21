@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./github-banner.png" width="100%" alt="Lauriane Mbagdje Dorenan — AI/ML Engineer | Biomedical Engineering"/>
-
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&center=true&vCenter=true&width=880&lines=Building+intelligent+systems+for+real-world+impact;Machine+Learning+%7C+Deep+Learning+%7C+LLMs;NLP+%7C+Computer+Vision+%7C+Multimodal+AI;Applied+AI+%7C+Research+%7C+Engineering" alt="Typing animation"/>
