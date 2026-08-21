@@ -42,8 +42,6 @@ My work combines engineering, applied research, and data to build practical and 
 
 <h3><strong>✨ Core Engineering</strong></h3>
 
-<!-- Animated icons inspired by the reference README -->
-
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="62" height="62" alt="Python"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://techstack-generator.vercel.app/github-icon.svg" width="62" height="62" alt="GitHub"/>
@@ -140,18 +138,16 @@ My work combines engineering, applied research, and data to build practical and 
 
 <table align="center">
 <tr>
-<td align="center" width="130"><img src="https://cdn.simpleicons.org/jira/0052CC" width="48"/><br><b>Jira</b></td>
-<td align="center" width="130"><img src="https://cdn.simpleicons.org/trello/0052CC" width="48"/><br><b>Trello</b></td>
-<td align="center" width="130"><img src="https://cdn.simpleicons.org/notion/000000" width="48"/><br><b>Notion</b></td>
-<td align="center" width="130"><img src="https://cdn.simpleicons.org/slack/4A154B" width="48"/><br><b>Slack</b></td>
+<td align="center" width="150"><img src="https://cdn.simpleicons.org/jira/0052CC" width="48"/><br><b>Jira</b></td>
+<td align="center" width="150"><img src="https://cdn.simpleicons.org/trello/0052CC" width="48"/><br><b>Trello</b></td>
+<td align="center" width="150"><img src="https://cdn.simpleicons.org/notion/000000" width="48"/><br><b>Notion</b></td>
+<td align="center" width="150"><img src="https://cdn.simpleicons.org/slack/4A154B" width="48"/><br><b>Slack</b></td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Vibe%20Coding-AI--Assisted%20Development-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white" alt="Vibe Coding"/>
-<img src="https://img.shields.io/badge/AI--Assisted%20Development-Workflow-2563EB?style=for-the-badge" alt="AI-Assisted Development"/>
-
+<img src="https://img.shields.io/badge/Vibe%20Coding-AI--Assisted%20Development-7C3AED?style=for-the-badge" alt="Vibe Coding"/>
 <img src="https://img.shields.io/badge/Scrum-Agile%20Delivery-0A66C2?style=for-the-badge" alt="Scrum"/>
 <img src="https://img.shields.io/badge/Project%20Management-Delivery-2563EB?style=for-the-badge" alt="Project Management"/>
 <img src="https://img.shields.io/badge/Dataset%20Curation-0284C7?style=for-the-badge" alt="Dataset Curation"/>
@@ -178,7 +174,11 @@ My work combines engineering, applied research, and data to build practical and 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LaurianeMD/LaurianeMD/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaurianeMD/LaurianeMD/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LaurianeMD/LaurianeMD/gh-pages/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/LaurianeMD/LaurianeMD/gh-pages/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake"/>
+</picture>
 
 </div>
 
